@@ -1,0 +1,16 @@
+Credit Card Financial Dashboard 
+
+Project Objective- 
+To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+
+Created new columns in customer table for age brackets and income bracket using DAX queries 
+Created a new column in credit card table named revenue 
+Created a new column in credit card table named week_num2 as the weeks were not sorted (or by default it wasn't in 1,2,3,4,5)
+WOW -WEEK ON WEEK
+
+For more details :
+Rishabh Mishra
+https://drive.google.com/drive/folders/1epR5h9QF7PbMwH7G28NNiHOkhgnVxBco
+
+https://www.youtube.com/watch?v=8XoDVwWdaqI
